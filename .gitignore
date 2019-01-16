@@ -1,0 +1,14 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# build class
+/build
+
+# settings
+/.settings
+
+# lib
+/WebContent/WEB-INF/lib
+
+# others
+.classpath
+.project
